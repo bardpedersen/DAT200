@@ -1,0 +1,303 @@
+index,Diagnosis
+0,Hepatitis
+1,Healthy
+2,Autoimmune Liver Diseases
+3,Healthy
+4,Healthy
+5,Healthy
+6,Healthy
+7,Healthy
+8,Hepatitis
+9,Drug-induced Liver Injury
+10,Healthy
+11,Autoimmune Liver Diseases
+12,Autoimmune Liver Diseases
+13,Healthy
+14,Cirrhosis
+15,Hepatitis
+16,Cirrhosis
+17,Healthy
+18,Hepatitis
+19,Healthy
+20,Healthy
+21,Hepatitis
+22,Drug-induced Liver Injury
+23,Autoimmune Liver Diseases
+24,Hepatitis
+25,Healthy
+26,Liver Cancer
+27,Drug-induced Liver Injury
+28,Healthy
+29,Autoimmune Liver Diseases
+30,Hepatitis
+31,Drug-induced Liver Injury
+32,Hepatitis
+33,Drug-induced Liver Injury
+34,Healthy
+35,Autoimmune Liver Diseases
+36,Healthy
+37,Healthy
+38,Healthy
+39,Healthy
+40,Hepatitis
+41,Drug-induced Liver Injury
+42,Healthy
+43,Cirrhosis
+44,Hepatitis
+45,Healthy
+46,Healthy
+47,Hepatitis
+48,Healthy
+49,Drug-induced Liver Injury
+50,Healthy
+51,Healthy
+52,Fatty Liver Disease
+53,Healthy
+54,Drug-induced Liver Injury
+55,Cirrhosis
+56,Hepatitis
+57,Cirrhosis
+58,Healthy
+59,Healthy
+60,Cirrhosis
+61,Healthy
+62,Healthy
+63,Drug-induced Liver Injury
+64,Autoimmune Liver Diseases
+65,Hepatitis
+66,Drug-induced Liver Injury
+67,Drug-induced Liver Injury
+68,Autoimmune Liver Diseases
+69,Hepatitis
+70,Hepatitis
+71,Cirrhosis
+72,Autoimmune Liver Diseases
+73,Healthy
+74,Healthy
+75,Hepatitis
+76,Healthy
+77,Healthy
+78,Healthy
+79,Autoimmune Liver Diseases
+80,Healthy
+81,Healthy
+82,Autoimmune Liver Diseases
+83,Hepatitis
+84,Drug-induced Liver Injury
+85,Liver Cancer
+86,Hepatitis
+87,Healthy
+88,Liver Cancer
+89,Healthy
+90,Hepatitis
+91,Cirrhosis
+92,Hepatitis
+93,Healthy
+94,Healthy
+95,Hepatitis
+96,Healthy
+97,Healthy
+98,Healthy
+99,Healthy
+100,Healthy
+101,Healthy
+102,Healthy
+103,Autoimmune Liver Diseases
+104,Healthy
+105,Healthy
+106,Hepatitis
+107,Liver Cancer
+108,Cirrhosis
+109,Drug-induced Liver Injury
+110,Fatty Liver Disease
+111,Healthy
+112,Healthy
+113,Healthy
+114,Healthy
+115,Healthy
+116,Cirrhosis
+117,Cirrhosis
+118,Healthy
+119,Healthy
+120,Autoimmune Liver Diseases
+121,Liver Cancer
+122,Drug-induced Liver Injury
+123,Healthy
+124,Healthy
+125,Drug-induced Liver Injury
+126,Liver Cancer
+127,Cirrhosis
+128,Liver Cancer
+129,Healthy
+130,Hepatitis
+131,Autoimmune Liver Diseases
+132,Healthy
+133,Healthy
+134,Autoimmune Liver Diseases
+135,Healthy
+136,Liver Cancer
+137,Drug-induced Liver Injury
+138,Healthy
+139,Hepatitis
+140,Healthy
+141,Healthy
+142,Liver Cancer
+143,Healthy
+144,Healthy
+145,Cirrhosis
+146,Healthy
+147,Cirrhosis
+148,Drug-induced Liver Injury
+149,Cirrhosis
+150,Healthy
+151,Healthy
+152,Drug-induced Liver Injury
+153,Cirrhosis
+154,Cirrhosis
+155,Hepatitis
+156,Cirrhosis
+157,Autoimmune Liver Diseases
+158,Hepatitis
+159,Fatty Liver Disease
+160,Healthy
+161,Liver Cancer
+162,Healthy
+163,Drug-induced Liver Injury
+164,Autoimmune Liver Diseases
+165,Healthy
+166,Hepatitis
+167,Drug-induced Liver Injury
+168,Healthy
+169,Autoimmune Liver Diseases
+170,Liver Cancer
+171,Cirrhosis
+172,Healthy
+173,Autoimmune Liver Diseases
+174,Healthy
+175,Healthy
+176,Autoimmune Liver Diseases
+177,Liver Cancer
+178,Hepatitis
+179,Healthy
+180,Healthy
+181,Autoimmune Liver Diseases
+182,Healthy
+183,Drug-induced Liver Injury
+184,Healthy
+185,Liver Cancer
+186,Cirrhosis
+187,Hepatitis
+188,Healthy
+189,Autoimmune Liver Diseases
+190,Liver Cancer
+191,Fatty Liver Disease
+192,Drug-induced Liver Injury
+193,Drug-induced Liver Injury
+194,Healthy
+195,Drug-induced Liver Injury
+196,Autoimmune Liver Diseases
+197,Hepatitis
+198,Healthy
+199,Drug-induced Liver Injury
+200,Healthy
+201,Cirrhosis
+202,Healthy
+203,Fatty Liver Disease
+204,Cirrhosis
+205,Healthy
+206,Healthy
+207,Healthy
+208,Healthy
+209,Healthy
+210,Hepatitis
+211,Drug-induced Liver Injury
+212,Cirrhosis
+213,Drug-induced Liver Injury
+214,Healthy
+215,Healthy
+216,Healthy
+217,Healthy
+218,Healthy
+219,Hepatitis
+220,Cirrhosis
+221,Healthy
+222,Hepatitis
+223,Hepatitis
+224,Healthy
+225,Autoimmune Liver Diseases
+226,Healthy
+227,Autoimmune Liver Diseases
+228,Fatty Liver Disease
+229,Healthy
+230,Healthy
+231,Healthy
+232,Liver Cancer
+233,Drug-induced Liver Injury
+234,Cirrhosis
+235,Drug-induced Liver Injury
+236,Cirrhosis
+237,Healthy
+238,Hepatitis
+239,Fatty Liver Disease
+240,Hepatitis
+241,Healthy
+242,Cirrhosis
+243,Drug-induced Liver Injury
+244,Healthy
+245,Hepatitis
+246,Hepatitis
+247,Healthy
+248,Healthy
+249,Fatty Liver Disease
+250,Autoimmune Liver Diseases
+251,Healthy
+252,Cirrhosis
+253,Autoimmune Liver Diseases
+254,Autoimmune Liver Diseases
+255,Hepatitis
+256,Hepatitis
+257,Liver Cancer
+258,Cirrhosis
+259,Healthy
+260,Cirrhosis
+261,Liver Cancer
+262,Healthy
+263,Healthy
+264,Healthy
+265,Autoimmune Liver Diseases
+266,Healthy
+267,Drug-induced Liver Injury
+268,Healthy
+269,Healthy
+270,Healthy
+271,Liver Cancer
+272,Cirrhosis
+273,Autoimmune Liver Diseases
+274,Healthy
+275,Healthy
+276,Cirrhosis
+277,Healthy
+278,Liver Cancer
+279,Cirrhosis
+280,Autoimmune Liver Diseases
+281,Drug-induced Liver Injury
+282,Healthy
+283,Cirrhosis
+284,Hepatitis
+285,Autoimmune Liver Diseases
+286,Healthy
+287,Hepatitis
+288,Hepatitis
+289,Autoimmune Liver Diseases
+290,Liver Cancer
+291,Liver Cancer
+292,Fatty Liver Disease
+293,Healthy
+294,Autoimmune Liver Diseases
+295,Cirrhosis
+296,Hepatitis
+297,Healthy
+298,Hepatitis
+299,Drug-induced Liver Injury
+300,Drug-induced Liver Injury
+301,Hepatitis
