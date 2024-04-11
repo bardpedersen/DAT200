@@ -1,10 +1,10 @@
 index,Diagnosis
-0,Hepatitis
+0,Drug-induced Liver Injury
 1,Healthy
 2,Autoimmune Liver Diseases
 3,Healthy
 4,Healthy
-5,Healthy
+5,Drug-induced Liver Injury
 6,Healthy
 7,Healthy
 8,Hepatitis
@@ -21,12 +21,12 @@ index,Diagnosis
 19,Healthy
 20,Healthy
 21,Hepatitis
-22,Drug-induced Liver Injury
+22,Hepatitis
 23,Autoimmune Liver Diseases
 24,Hepatitis
 25,Healthy
 26,Liver Cancer
-27,Drug-induced Liver Injury
+27,Hepatitis
 28,Healthy
 29,Autoimmune Liver Diseases
 30,Hepatitis
@@ -34,24 +34,24 @@ index,Diagnosis
 32,Hepatitis
 33,Drug-induced Liver Injury
 34,Healthy
-35,Autoimmune Liver Diseases
+35,Hepatitis
 36,Healthy
 37,Healthy
 38,Healthy
 39,Healthy
-40,Hepatitis
+40,Drug-induced Liver Injury
 41,Drug-induced Liver Injury
 42,Healthy
 43,Cirrhosis
 44,Hepatitis
 45,Healthy
 46,Healthy
-47,Hepatitis
+47,Healthy
 48,Healthy
 49,Drug-induced Liver Injury
 50,Healthy
 51,Healthy
-52,Fatty Liver Disease
+52,Autoimmune Liver Diseases
 53,Healthy
 54,Drug-induced Liver Injury
 55,Cirrhosis
@@ -77,13 +77,13 @@ index,Diagnosis
 75,Hepatitis
 76,Healthy
 77,Healthy
-78,Healthy
+78,Cirrhosis
 79,Autoimmune Liver Diseases
 80,Healthy
 81,Healthy
 82,Autoimmune Liver Diseases
 83,Hepatitis
-84,Drug-induced Liver Injury
+84,Hepatitis
 85,Liver Cancer
 86,Hepatitis
 87,Healthy
@@ -108,7 +108,7 @@ index,Diagnosis
 106,Hepatitis
 107,Liver Cancer
 108,Cirrhosis
-109,Drug-induced Liver Injury
+109,Autoimmune Liver Diseases
 110,Fatty Liver Disease
 111,Healthy
 112,Healthy
@@ -124,7 +124,7 @@ index,Diagnosis
 122,Drug-induced Liver Injury
 123,Healthy
 124,Healthy
-125,Drug-induced Liver Injury
+125,Hepatitis
 126,Liver Cancer
 127,Cirrhosis
 128,Liver Cancer
@@ -152,13 +152,13 @@ index,Diagnosis
 150,Healthy
 151,Healthy
 152,Drug-induced Liver Injury
-153,Cirrhosis
+153,Fatty Liver Disease
 154,Cirrhosis
 155,Hepatitis
 156,Cirrhosis
 157,Autoimmune Liver Diseases
 158,Hepatitis
-159,Fatty Liver Disease
+159,Healthy
 160,Healthy
 161,Liver Cancer
 162,Healthy
@@ -166,7 +166,7 @@ index,Diagnosis
 164,Autoimmune Liver Diseases
 165,Healthy
 166,Hepatitis
-167,Drug-induced Liver Injury
+167,Autoimmune Liver Diseases
 168,Healthy
 169,Autoimmune Liver Diseases
 170,Liver Cancer
@@ -182,7 +182,7 @@ index,Diagnosis
 180,Healthy
 181,Autoimmune Liver Diseases
 182,Healthy
-183,Drug-induced Liver Injury
+183,Hepatitis
 184,Healthy
 185,Liver Cancer
 186,Cirrhosis
@@ -190,15 +190,15 @@ index,Diagnosis
 188,Healthy
 189,Autoimmune Liver Diseases
 190,Liver Cancer
-191,Fatty Liver Disease
+191,Healthy
 192,Drug-induced Liver Injury
 193,Drug-induced Liver Injury
 194,Healthy
-195,Drug-induced Liver Injury
+195,Hepatitis
 196,Autoimmune Liver Diseases
 197,Hepatitis
 198,Healthy
-199,Drug-induced Liver Injury
+199,Hepatitis
 200,Healthy
 201,Cirrhosis
 202,Healthy
@@ -210,16 +210,16 @@ index,Diagnosis
 208,Healthy
 209,Healthy
 210,Hepatitis
-211,Drug-induced Liver Injury
-212,Cirrhosis
+211,Hepatitis
+212,Healthy
 213,Drug-induced Liver Injury
 214,Healthy
 215,Healthy
 216,Healthy
 217,Healthy
 218,Healthy
-219,Hepatitis
-220,Cirrhosis
+219,Drug-induced Liver Injury
+220,Healthy
 221,Healthy
 222,Hepatitis
 223,Hepatitis
@@ -227,7 +227,7 @@ index,Diagnosis
 225,Autoimmune Liver Diseases
 226,Healthy
 227,Autoimmune Liver Diseases
-228,Fatty Liver Disease
+228,Healthy
 229,Healthy
 230,Healthy
 231,Healthy
@@ -235,14 +235,14 @@ index,Diagnosis
 233,Drug-induced Liver Injury
 234,Cirrhosis
 235,Drug-induced Liver Injury
-236,Cirrhosis
+236,Healthy
 237,Healthy
 238,Hepatitis
 239,Fatty Liver Disease
-240,Hepatitis
+240,Drug-induced Liver Injury
 241,Healthy
 242,Cirrhosis
-243,Drug-induced Liver Injury
+243,Hepatitis
 244,Healthy
 245,Hepatitis
 246,Hepatitis
@@ -253,11 +253,11 @@ index,Diagnosis
 251,Healthy
 252,Cirrhosis
 253,Autoimmune Liver Diseases
-254,Autoimmune Liver Diseases
+254,Drug-induced Liver Injury
 255,Hepatitis
 256,Hepatitis
 257,Liver Cancer
-258,Cirrhosis
+258,Healthy
 259,Healthy
 260,Cirrhosis
 261,Liver Cancer
@@ -266,7 +266,7 @@ index,Diagnosis
 264,Healthy
 265,Autoimmune Liver Diseases
 266,Healthy
-267,Drug-induced Liver Injury
+267,Hepatitis
 268,Healthy
 269,Healthy
 270,Healthy
@@ -291,13 +291,13 @@ index,Diagnosis
 289,Autoimmune Liver Diseases
 290,Liver Cancer
 291,Liver Cancer
-292,Fatty Liver Disease
+292,Healthy
 293,Healthy
 294,Autoimmune Liver Diseases
 295,Cirrhosis
 296,Hepatitis
 297,Healthy
-298,Hepatitis
+298,Drug-induced Liver Injury
 299,Drug-induced Liver Injury
 300,Drug-induced Liver Injury
-301,Hepatitis
+301,Drug-induced Liver Injury
